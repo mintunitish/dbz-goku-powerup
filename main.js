@@ -13,6 +13,10 @@ const main = () => {
     start.subscribe(() => {
         sprite.classList.add('powerup');
     });
+
+    end.subscribe(() => {
+        sprite.classList.remove('powerup');
+    });
 }
 
 main();
