@@ -1,6 +1,6 @@
 # Goku Animations using RxJS
 
-This repository is just a fun experiment with RxJS library to create various animations of the character from the anime series DragonBall Z Goku.
+This repository is just a fun experiment with RxJS library to create various animations of the character <b>Goku</b> from the anime series <b>DragonBall Z</b>.
 
 ## How to Run?
 
